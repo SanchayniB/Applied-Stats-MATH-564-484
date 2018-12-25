@@ -429,5 +429,3 @@ ggplot(test_m3) +
   geom_point(aes(x=index , y = predict , colour = 'Predicted')) +
   labs(title="Predictions",
        x ="Index", y = 'Median Income')
-
- 
