@@ -10,5 +10,5 @@ regression to understand the relationships between the factors that affect the m
 generated using publicly available US demographic data for 2016. After removing outliers and feature engineering, the linear regression
 model found key factors that predict income at a county level to a high degree of accuracy.
 
-
+Please refer to file Detailed_Report for detailed analysis
 
